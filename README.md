@@ -10,13 +10,13 @@ This is a simple image encryption tool implemented in Python that uses basic pix
 - Decrypt images back to their original form.
 - Simple and easy-to-understand implementation.
 
-## Requirements
+## Requrements
 
 - Python 3.x
 - Pillow (PIL Fork)
 - NumPy
 
-##Explanation
+## Explanation
 
 Encrypt Function:
 
