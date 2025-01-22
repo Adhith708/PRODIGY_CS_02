@@ -48,14 +48,14 @@ Run the script, and it will create an encrypted image and then decrypt it back t
 
 ### Example
 
--Original Image 
+- Original Image 
 
 ![Minimalist Aesthetic Desktop Wallpaper _ TheCandie_com](https://github.com/user-attachments/assets/ad02a5bc-6e9c-4212-a1a2-a7f141560e99)
 
--Image After Encryption
+- Image After Encryption
 
 ![Screenshot (71)](https://github.com/user-attachments/assets/d898a740-2155-445a-9237-dc427274fd8c)
 
--Image After Decryption
+- Image After Decryption
 
 ![Screenshot (72)](https://github.com/user-attachments/assets/b97a88ce-63f0-48fb-911a-d3de46d630f2)
