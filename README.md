@@ -40,3 +40,7 @@ Run the script, and it will create an encrypted image and then decrypt it back t
    ```bash
    git clone https://github.com/Adhith708/image-encryption-tool.git
    cd image-encryption-tool
+
+## Example
+
+![Minimalist Aesthetic Desktop Wallpaper _ TheCandie_com](https://github.com/user-attachments/assets/ad02a5bc-6e9c-4212-a1a2-a7f141560e99)
