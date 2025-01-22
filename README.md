@@ -41,7 +41,12 @@ Run the script, and it will create an encrypted image and then decrypt it back t
    git clone https://github.com/Adhith708/image-encryption-tool.git
    cd image-encryption-tool
 
-## Example
+### Usage
+
+- Replace 'input_image.png' with the path to your image file.
+- Run the script, and it will create an encrypted image and then decrypt it back to the original.
+
+### Example
 
 -Original Image 
 
